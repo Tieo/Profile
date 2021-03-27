@@ -5,6 +5,12 @@
     "iconClass": "mdi mdi-view-dashboard-outline",
     "child": [
       {
+        "name": "Covid Analysis",
+        "label": "COVID19",
+        "link": "covid_analysis.html",
+        "tags": "users, charts, maps, tabs, tables"
+      },
+      {
         "name": "index",
         "label": "Ecommerce",
         "link": "index.html",
