@@ -1,17 +1,16 @@
 {
     "name": "Theo Kim",
-    "image": "assets/img/user/user.png",
+    "image": "assets/img/user/theokim.jpg",
     "email": "theokim@hufs.ac.kr",
-    "phone": "+82 10 1234 4567",
+    "phone": "+82 10 3168 4567",
     "birth": "Jan 1, 2021",
     "resumes": [
         {
             "label": "RESUME",
-            "link": "https://swmaestro.org/sw/cmmn/file/fileDown.do?atchFileId=a269afb2417d46ff9a2167942b728001&fileSn=3"
+            "link": "https://github.com/Tieo"
         },{
             "label": "PORTFOLIO",
-            "link": "https://swmaestro.org/sw/cmmn/file/fileDown.do?atchFileId=a269afb2417d46ff9a2167942b728001&fileSn=3"
-        }
+            "link": "https://afoli.kr"
     ],
     "socials": [
         {
